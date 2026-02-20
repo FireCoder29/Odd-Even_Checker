@@ -1,5 +1,5 @@
 def check_odd_even(number):
-
+    
     if not isinstance(number, int):
         return "Invalid Input: Not an Integer"
     
