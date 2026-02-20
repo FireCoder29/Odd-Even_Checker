@@ -16,4 +16,4 @@ It is a simple Python project that checks whether a number is **Odd** or **Even*
 ---
 
 ## Made by:
-* Md. Arham Ishtiyaque 
+**Md. Arham Ishtiyaque** 
