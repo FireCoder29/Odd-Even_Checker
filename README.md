@@ -6,14 +6,14 @@ It is a simple Python project that checks whether a number is **Odd** or **Even*
 
 ## 🚀 Features
 
-✔ Detects Even numbers
-✔ Detects Odd numbers
-✔ Validates integer input
-✔ Handles invalid inputs (string, float, etc.)
-✔ Includes full unit testing
-✔ Covers edge cases (0, negative numbers)
+- ✔ Detects Even numbers
+- ✔ Detects Odd numbers
+- ✔ Validates integer input
+- ✔ Handles invalid inputs (string, float, etc.)
+- ✔ Includes full unit testing
+- ✔ Covers edge cases (0, negative numbers)
 
 ---
 
 ## Made by:
-*** Md. Arham Ishtiyaque *** 
+* Md. Arham Ishtiyaque 
